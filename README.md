@@ -9,8 +9,7 @@ based on classical approximation methods, additionally the approach with the Pas
 
 ### **Requirements:**
 
-This software only requires a basic Matlab setup. To design filters with classical approximation methods, the software requires the toolbox which is located in the 
-Functions_of_classical_methods/AF_TOOLBOX_2016 folder. The toolbox supporting the book: Lars Wanhammar: Analog Filters Using MATLAB, Springer, 2009.
+This software only requires a basic Matlab setup with Symbolic Math Toolbox included. To design filters with classical approximation methods, the software requires the toolbox which is located in the Functions_of_classical_methods/AF_TOOLBOX_2016 folder. The toolbox supporting the book: Lars Wanhammar: Analog Filters Using MATLAB, Springer, 2009.
 
 ### **Installation:**
 
