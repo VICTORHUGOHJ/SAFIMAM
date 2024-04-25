@@ -15,4 +15,4 @@ This software only requires a basic Matlab setup with Symbolic Math Toolbox incl
 
 The software does not need any installation. It is sufficient to add the folders with subfolders to the Matlab path.
 
-**Folder organization and quick start guide is included in SAFIMAM Documentation file in documentation folder.**
+**Folder organization and start guide is included in SAFIMAM Documentation file in documentation folder.**
