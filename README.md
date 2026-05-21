@@ -19,7 +19,7 @@ The software does not need any installation. It is sufficient to add the folders
 
 ### **Related Publication:**
 
-Additional resources and documentation are derived from the manuscript titled **"A GUI for the synthesis and design of analog filters based on Pascal and other classical approximations"** published in IEEE Latin America Transactions, Submission **ID: 10184**.
+Additional resources and documentation are derived from the manuscript titled **"A GUI for the synthesis and design of analog filters based on Pascal and other classical approximations"** published in **IEEE Latin America Transactions**, Submission **ID: 10184**.
 
 ### **Authors:**
 
