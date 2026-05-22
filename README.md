@@ -1,6 +1,18 @@
-# **SAFIMAM: Synthesis of Analog Filters in MATLAB by Approximation Methods**
+# **A GUI for the synthesis and design of analog filters based on Pascal and other classical approximations**
+Manuscript ID: **IEEE Latin America Transactions** Submission **ID: 10184**<br>
+**Authors:**<br>
+Víctor Hugo Hernández Juárez<sup>1</sup><br>
+Luis Abraham Sánchez Gaspariano<sup>1</sup><br>
+Carlos Sánchez López<sup>2</sup><br>
+Richard Torrealba Meléndez<sup>1</sup><br>
+Jesús Manuel Muñoz Pacheco<sup>1</sup><br>
+Carlos Muñiz Montero<sup>3</sup><br>
+Luz del Carmen Gómez Pavón<sup>1</sup><br>
 
-## **by Víctor Hugo Hernández Juárez**
+**Affiliation:**<br>
+1. Benemérita Universidad Autónoma de Puebla. Facultad de Ciencias de la Electrónica, Av. San Claudio y 18 Sur Edif. FCE1, Col. San Manuel, Ciudad Universitaria, Puebla, México.<br>
+2. Departamento de Electrónica, Universidad Autónoma de Tlaxcala, Calzada Apizaquito S/N, km 1.5, Apizaco, Tlaxcala, México.<br>
+3. Universidad Politécnica de Puebla, Ingeniería en Electrónica y Telecomunicaciones, Tercer Carril del Ejido, Serrano S/N, Juan C. Bonilla, Puebla, México.<br>
 
 ### **April 2024**
 
@@ -24,7 +36,7 @@ Additional resources and documentation are derived from the manuscript titled **
 ### **Authors:**
 
 **Víctor Hugo Hernández Juárez** received the MSc and the BSc degree, both in Electronics, from the Benemérita Universidad Autónoma de Puebla (BUAP), and Instituto Politécnico Nacional, respectively. His research interests include both analog and digital signal processing, coding, radio communications systems and networks design. Currently, he is pursuing the PhD degree from BUAP, his research topic focuses on the synthesis and design of analog filters for biomedical applications.
-Email: hj224570062@alm.buap.mx
+Email: hj224570062@alm.buap.mx (corresponding author)
 
 **Luis Abraham Sánchez Gaspariano** received the PhD degree in Electronics from INAOE, Puebla, México, in 2011. During 2009 he was a visiting scholar in the Integrated Circuits Design (ICD) group at the University of Twente, in the Netherlands. He is currently with the Electronics Faculty at Benemérita Universidad Autónoma de Puebla (BUAP), in Puebla, México, as a full professor. His research interests include the development of Electronic Design Automation (EDA) tools and the development of electronic automotive systems.
 Email: luis.sanchezgas@correo.buap.mx
