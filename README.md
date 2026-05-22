@@ -32,7 +32,6 @@ The software is organized in several folders. The src folder includes fig and m 
 ### **Star GUI**
 Once the folders contained in the repository have been added to the Matlab path, simply execute the word “order” in the Matlab command window to open the SAFIMAM interface start window.
 
-
 ### **Authors:**
 
 **Víctor Hugo Hernández Juárez** received the MSc and the BSc degree, both in Electronics, from the Benemérita Universidad Autónoma de Puebla (BUAP), and Instituto Politécnico Nacional, respectively. His research interests include both analog and digital signal processing, coding, radio communications systems and networks design. Currently, he is pursuing the PhD degree from BUAP, his research topic focuses on the synthesis and design of analog filters for biomedical applications.
