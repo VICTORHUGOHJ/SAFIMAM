@@ -14,22 +14,18 @@ Luz del Carmen Gómez Pavón<sup>1</sup><br>
 2. Departamento de Electrónica, Universidad Autónoma de Tlaxcala, Calzada Apizaquito S/N, km 1.5, Apizaco, Tlaxcala, México.<br>
 3. Universidad Politécnica de Puebla, Ingeniería en Electrónica y Telecomunicaciones, Tercer Carril del Ejido, Serrano S/N, Juan C. Bonilla, Puebla, México.<br>
 
-### **April 2024**
+This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
 
-**SAFIMAM** *(Synthesis of Analog Filter in MATLAB by Approximation Methods)* is an easy-to-use Graphical User Interface developed in MATLAB to synthesize analog filter structures, 
-based on classical approximation methods, additionally the approach with the Pascal approximation method, starting from a few design specifications is presented.
-
-### **Requirements:**
+### **Software Requirements**
 
 This software only requires a basic Matlab setup with Symbolic Math Toolbox included. To design filters with classical approximation methods, the software requires the toolbox which is located in the Functions_of_classical_methods/AF_TOOLBOX_2016 folder. The toolbox supporting the book: Lars Wanhammar: Analog Filters Using MATLAB, Springer, 2009.
 
 ### **Installation:**
 
 The software does not need any installation. It is sufficient to add the folders with subfolders to the Matlab path.
-
 **Folder organization and start guide is included in SAFIMAM Documentation file in documentation folder.**
 
-### **Related Publication:**
+### **Folder Organization**
 
 Additional resources and documentation are derived from the manuscript titled **"A GUI for the synthesis and design of analog filters based on Pascal and other classical approximations"** published in **IEEE Latin America Transactions**, Submission **ID: 10184**.
 
