@@ -37,6 +37,10 @@ Note: These results will vary depending on the characteristics of the computer e
 
 To reproduce Figure 11 from the Figure_11 folder, simply execute the file KS_EMG_5G.m, and for Figure 6 from the Figure_6 folder, execute ANMC_EMG_GEN.m.<br>
 
+To reproduce Figure 10b, in the Figure_10b folder all files must be added to the path and GRAF_5G_MATLAB_S11_S12 must be executed.<br>
+
+To reproduce Figure 5, in the Figure_5 folder, FiltrosPB.m must be executed.<br>
+
 ### **Star GUI**
 Once the folders contained in the repository have been added to the Matlab path, simply execute the word “orden” in the Matlab command window to open the SAFIMAM interface start window.
 <img width="1638" height="872" alt="Diagrama sin título-Página-6" src="https://github.com/user-attachments/assets/b5ac0e35-9656-4f50-b5a0-ea1132540a01" />
