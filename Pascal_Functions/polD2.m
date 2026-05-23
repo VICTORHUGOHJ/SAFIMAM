@@ -25,6 +25,7 @@ else
     poliome=polipa.*vi;
 end
 PD2=expand((vpa(sum(poliome)))^2);
-w=j*s;
-PD2=expand(vpa(eval(PD2)));
+%w=j*s;
+%PD2=expand(vpa(eval(PD2)));
+PD2 = expand(vpa(subs(PD2, w, 1j * s)));
 end
